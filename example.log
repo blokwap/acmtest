@@ -1,0 +1,4 @@
+INFO main ExceptionTest - setUpBeforeClass
+INFO main ExceptionTest - setUp
+INFO main ExceptionTest - test
+INFO main ExceptionTest - Temperature set to 11. Old temperature was 22.
